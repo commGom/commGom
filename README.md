@@ -13,6 +13,6 @@
 
 
 ### 🤝🏻 &nbsp;Contact
-<a href="mailto:phyw1129@naver.com"><img src="https://img.shields.io/badge/-cookie00421@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/commGom"><img src="https://img.shields.io/badge/-@jeongkooo__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/-@minjung.koo2-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="mailto:phyw1129@naver.com"><img src="https://img.shields.io/badge/-phyw1129@naver.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/commGom"><img src="https://img.shields.io/badge/-@commGom-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/-@commGom-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
