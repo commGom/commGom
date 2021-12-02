@@ -1,3 +1,7 @@
+<a href="https://congchu.github.io/portfolio-1"><img src="https://img.shields.io/badge/Porfoilo-web-blue"/></a>
+<a href="https://www.notion.so/FullStack-Programmer-12a087212d21471abfce21cb3c347298"><img src="https://img.shields.io/badge/Porfoilo-Docs-blue"/></a>
+![https://komarev.com/ghpvc/?username=commGom](https://komarev.com/ghpvc/?username=commGom)
+
 <h1 align="center">Hi 👋, I'm Hyunwoo Park</h1>
 <h3 align="center">SW Developer</h3>
 
